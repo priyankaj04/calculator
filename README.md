@@ -1,2 +1,3 @@
 # calculator
-Calculator using HTML, CSS and JS
+Calculator using HTML, CSS and JS.
+Background is animated.
